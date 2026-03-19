@@ -166,8 +166,8 @@ Now that we have as many users as we do VMs being used we can now begin to join 
 
 1.  Repeat the process for all the VMs you want connected to the domain.
 
-That’s it!
+Conclusion
 
-Active Directory is set up and properly configured now so I have an environment where I can safely change settings, configure some things, and poke around to learn more about IT in my home lab. The point of this project was to get more familiar with Active Directory and virtual machines in a hands-on environment. I hope this was intelligible and I hope that you will look at this and see the problem solving and documentation skills that I possess.
+That’s it, Active Directory is now deployed and configured. This project was created to show off my hands-on learning and provide a safe space in order to simulate real world scenarios so that I can keep building my core IT skills.
 
-Thank you for taking the time to look at my project!
+Thank you for taking the time to review my project!

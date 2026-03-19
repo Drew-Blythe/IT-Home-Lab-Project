@@ -14,4 +14,4 @@ I found myself having trouble trying to load the ISO onto the VM so that it woul
 
 [View Active Directory Project](AD_Project.md) *(Note: Images not included — full documentation with screenshots available in the downloadable .docx file)*  
 
-[Download Full Documentation with Screenshots](AD_Project.docx)
+[Download Full Documentation with Screenshots](AD_Project.docx) *(Note: In order to view project this way you need to click "View raw" to download the .docx file)*

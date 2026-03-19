@@ -8,4 +8,4 @@ Fixed Windows Server 2022 virtual machine auto abort on pc by enabling virtualiz
 I found myself having trouble trying to load the ISO onto the VM so that it would boot correctly. I found out through a little research that I should Actually leave the ISO image empty in the VM setup and select it through the DVD drop down menu. Not only that, because even when I did that it didn’t work. I also had to mash the enter button repeatedly on load. This bypassed my problem and brought me to the setup menu. 
 
 
-[View Active Directory Project](AD_Project.md)
+[View Active Directory Project](AD_Project.md) *(Note: Images not included — full documentation with screenshots available in the downloadable .docx file)*

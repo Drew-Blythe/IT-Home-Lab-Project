@@ -22,7 +22,7 @@ Virtual Machines
 
 Core Objective
 
-The goal of this project is to walk through setting up a virtualized home lab environment using VirtualBox with Windows Server 2022 and Windows 11 VMs, configure VirtualBox to allow for different VMs, configure an isolated NAT network to allow for communication between VMs, set up Windows Server 2022 to use Active Directory, create and manage user accounts within that domain, configure DNS settings across virtual machines, and join client machines to the domain.
+The goal of this project is to build a virtualized home lab environment using VirtualBox with Windows Server 2022 and Windows 11 VMs. The lab covers configuring VirtualBox to allow for different VMs, configuring an isolated NAT network to allow for communication between VMs, setting up Windows Server 2022 to use Active Directory, creating and managing user accounts within that domain, configuring DNS settings across virtual machines, and joining client machines to the domain.
 
 Virtual Box Installation
 
